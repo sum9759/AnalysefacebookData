@@ -1,2 +1,2 @@
 # AnalysefacebookData
-This project was done in collaboration with another person
+This project is upon analysing facebook posts from a local news page and get an understanding of the current topics trending in Galway. After extracting posts from the facebook pages Connacht Tribune and Galway Today using the facebook garph API; I have first cleaned the data; applied LDA to help in selection of certain keywords that we wanted to look at. Finally, posts were aggregated according to the keywords; associated words wprd cloud was drawn and sentiments regarding keywords have been showcased. This project was done in a team of 2 people.
